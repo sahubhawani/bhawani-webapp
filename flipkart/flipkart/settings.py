@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e(u)-vajy=+!a1#%c5a$r_l!1hb2esszdd^*w^!^8y2xjzgz^1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://bhawani-webapp2-jpnce.azurewebsites.net/]
 
 
 # Application definition
